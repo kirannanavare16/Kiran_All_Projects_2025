@@ -8,7 +8,7 @@ public class NewTest {
  
   @BeforeTest
   public void beforeTest() {
-	    System.out.println("Kiran");
+	    System.out.println("Kiranok");
   }
   @Test
   public void f() {
